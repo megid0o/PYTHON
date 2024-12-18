@@ -1,0 +1,38 @@
+.block{
+}
+
+.block_row{
+    border:15px solid #ece89d;
+    height: 200px;
+    display: flex;
+
+}
+
+.block_element{
+    border :5px solid #5e5373;
+    width: 100%;
+    padding: 20px 0 0 0;
+    margin: 0 0 0 0;
+}
+
+.block_content{
+    background-color: #18b5a4;
+}
+.block_element_1{
+
+}
+
+.block_element_2{
+        align-self: flex-start;
+
+}
+
+.block_element_3{
+
+
+}
+
+.block_element_4{
+    align-self: flex-start;
+
+}
